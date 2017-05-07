@@ -1,6 +1,20 @@
 # `flash-communities`
 > :children_crossing: An art collective dedicated to generating spontaneous events designed to inspire a sense of humanistic unity among strangers.
 
+<!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Epic story: facilitate flash-communities](#epic-story-facilitate-flash-communities)
+- [Background](#background)
+	- [Example via an initial art installation](#example-via-an-initial-art-installation)
+		- [Technology overview](#technology-overview)
+		- [Flash-community event](#flash-community-event)
+- [Next steps](#next-steps)
+	- [Reduce and refine scope](#reduce-and-refine-scope)
+	- [Design solid privacy protection](#design-solid-privacy-protection)
+- [License](#license)
+
+<!-- /TOC -->
+
 ## Epic story: facilitate flash-communities
 
 As a Humanist,<br>
