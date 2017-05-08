@@ -5,29 +5,29 @@
 <!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Table of contents](#table-of-contents)
-- [Epic story: facilitate flash-communities](#epic-story-facilitate-flash-communities)
-- [Background](#background)
-- [Initial vision and purpose](#initial-vision-and-purpose)
-	- [Early iterations as art installations](#early-iterations-as-art-installations)
-- [Next steps](#next-steps)
-	- [Prioritize scope](#prioritize-scope)
-	- [Necessary tools, technologies, and skillsets](#necessary-tools-technologies-and-skillsets)
-	- [Design solid privacy protection](#design-solid-privacy-protection)
-- [License](#license)
+- [1. Epic story: facilitate flash-communities](#1-epic-story-facilitate-flash-communities)
+- [2. Background](#2-background)
+- [3. Initial vision and purpose](#3-initial-vision-and-purpose)
+	- [3.1. Early iterations as art installations](#31-early-iterations-as-art-installations)
+- [4. Next steps](#4-next-steps)
+	- [4.1. Prioritize scope](#41-prioritize-scope)
+	- [4.2. Define necessary tools, technologies, and skillsets](#42-define-necessary-tools-technologies-and-skillsets)
+	- [4.3. Design solid privacy protection](#43-design-solid-privacy-protection)
+- [5. License](#5-license)
 
 <!-- /TOC -->
 
-## Epic story: facilitate flash-communities
+## 1. Epic story: facilitate flash-communities
 
 As a Humanist,<br>
 I want to facilitate rapid communal bounds using personal, data-mined sounds and imagery<br>
 In order to inspire spontaneous social unity among strangers.<br>
 
-## Background
+## 2. Background
 
 Unlike flashmobs - quick, public assemblies of people who engage in coordinated _performances_ intended for outward-facing audiences - **flash-communities** are introverted events akin to family reunions, where members share a pot-luck of music, tweets, posts, videos, and images (all of which are anonymously and automatically data-mined from mobile devices). Projects focussed on `flash-communities` iteratively explore and experiment with  the formation of minimally to non-hierarchical groups for goal-oriented enterprises.
 
-## Initial vision and purpose
+## 3. Initial vision and purpose
 
 I'm still working out a potential audio-visual product/experience, but here's where I am so far.
 
@@ -38,7 +38,7 @@ My goal is to plot personal events (starting with social media "activity logs") 
 > #### `flash-communities` as [Temporary Autonomous Zones (TAZ)](https://en.wikipedia.org/wiki/Temporary_Autonomous_Zone)?
 > I'm revisiting the concepts behind the formation of TAZs, especially with "Music as an Organizational Principle." Like TAZs, `flash-community` events and projects share similar goals: to expose the invisible, unexamined emotional and intellectual nodes that bind and separate us as a means for identifying more cooperative pathways.
 
-### Early iterations as art installations
+### 3.1. Early iterations as art installations
 
 Participants enter a room (inspired/informed by the work of Olafur Eliasson) and:
 
@@ -51,7 +51,7 @@ Participants enter a room (inspired/informed by the work of Olafur Eliasson) and
 >
 > As currently conceived, flash-communities will require a mobile app that participants must install and (transparently) link to their social media accounts. The mobile app anonymously gathers favorite songs, recent images, and other personal data in order to generate a coordinated presentation of meaningful life-events and facts to be shared and orchestrated during a flash-community event.
 
-## Next steps
+## 4. Next steps
 
 - [ ] Story-board a "best case" example
 - [ ] Identify the type of graph best suited to cumulative, ambient tonal resolution, starting with:
@@ -62,14 +62,14 @@ Participants enter a room (inspired/informed by the work of Olafur Eliasson) and
 - [ ] Identify and design visual surfaces that reflect or project images
 - [ ] Budget the whole damn thing :money_with_wings:
 
-### Prioritize scope
+### 4.1. Prioritize scope
 
 - Based on feasibility and resources, determine whether to proceed.
 - Gather materials for a prototype
 - Build app and backend (will this require AI or machining learning?)
 - Conduct tests
 
-### Necessary tools, technologies, and skillsets
+### 4.2. Define necessary tools, technologies, and skillsets
 
 - [ ] Mobile app that mines social media audio-visual likes
 - [ ] BaaS to store data
@@ -82,12 +82,12 @@ Participants enter a room (inspired/informed by the work of Olafur Eliasson) and
       - [ ] ...
 - [ ] Data-store, backend APIs, etc.
 
-### Design solid privacy protection
+### 4.3. Design solid privacy protection
 
 Privacy is paramount, and I will not proceed unless I feel confident about a data store and security risks.
 
 Participants should be able to choose what *not* to be shared.
 
-## License
+## 5. License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
