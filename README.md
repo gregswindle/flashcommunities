@@ -1,15 +1,17 @@
 # `flash-communities`
-> :children_crossing: An art collective dedicated to generating spontaneous events designed to inspire a sense of humanistic unity among strangers.
+> An art collective dedicated to generating spontaneous events designed to inspire a sense of humanistic unity among strangers.
 
+## Table of contents
 <!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Table of contents](#table-of-contents)
 - [Epic story: facilitate flash-communities](#epic-story-facilitate-flash-communities)
 - [Background](#background)
-	- [Example via an initial art installation](#example-via-an-initial-art-installation)
-		- [Technology overview](#technology-overview)
-		- [Flash-community event](#flash-community-event)
+- [Initial vision and purpose](#initial-vision-and-purpose)
+	- [Early iterations as art installations](#early-iterations-as-art-installations)
 - [Next steps](#next-steps)
-	- [Reduce and refine scope](#reduce-and-refine-scope)
+	- [Prioritize scope](#prioritize-scope)
+	- [Necessary tools, technologies, and skillsets](#necessary-tools-technologies-and-skillsets)
 	- [Design solid privacy protection](#design-solid-privacy-protection)
 - [License](#license)
 
@@ -23,20 +25,51 @@ In order to inspire spontaneous social unity among strangers.<br>
 
 ## Background
 
-Unlike flashmobs -- quick, public assemblies of people who engage in coordinated _performances_ intended for outward-facing audiences -- flash-communities are more _inward-facing_ events akin to family reunions, where members share a pot-luck of music, tweets, posts, videos, and images (all of which are anonymously and automatically data-mined from mobile devices).
+Unlike flashmobs - quick, public assemblies of people who engage in coordinated _performances_ intended for outward-facing audiences - **flash-communities** are introverted events akin to family reunions, where members share a pot-luck of music, tweets, posts, videos, and images (all of which are anonymously and automatically data-mined from mobile devices). Projects focussed on `flash-communities` iteratively explore and experiment with  the formation of minimally to non-hierarchical groups for goal-oriented enterprises.
 
-### Example via an initial art installation
+## Initial vision and purpose
 
-> #### :information_source: Prerequisite data-mining
+I'm still working out a potential audio-visual product/experience, but here's where I am so far.
+
+Similar to some of [Olafur Eliasson](https://en.wikipedia.org/wiki/Olafur_Eliasson)'s work exploring humanity's relationship with geometry and space, and how these relationships affect the meaning of "public," `flash-communities` function to classify and transmit social media events as semantic networks that connect the participants directly and indirectly via shared nodes of emotion, proximity, and time.
+
+My goal is to plot personal events (starting with social media "activity logs") to plot graphs expressed by the constituent sounds and images of the very media shared. Initial iterations of such graphs will likely culminate into a harmonic drone of sound based on the strongest edges within each graph, slowed and sustained as until a shared chorus has been achieved.
+
+> #### `flash-communities` as [Temporary Autonomous Zones (TAZ)](https://en.wikipedia.org/wiki/Temporary_Autonomous_Zone)?
+> I'm revisiting the concepts behind the formation of TAZs, especially with "Music as an Organizational Principle." Like TAZs, `flash-community` events and projects share similar goals: to expose the invisible, unexamined emotional and intellectual nodes that bind and separate us as a means for identifying more cooperative pathways.
+
+### Early iterations as art installations
+
+Participants enter a room (inspired/informed by the work of Olafur Eliasson) and:
+
+- [ ] 1. Beacons identify participants and queue their prepared media
+- [ ] 2. Images begin to float from the floor to the ceiling, moving upward in chronological order
+- [ ] 3. Intersections, unions, and associations among participants' data are sonically mapped and processed  to create tones and chords
+- [ ] 4. All media and song merge harmonically overhead to generate a unique "noosphere"
+
+> ##### :iphone: Prerequisite data-mining
 >
-> As currently conceived, flash-communities will require a mobile app that participants must install and (transparently) link to their social media accounts. The mobile app anonymously gathers (and classifies?) favorite
-> * songs,
-> * recent images, and
-> other personal data/media
->
-> These data are then structured in a NoSQL backend for coordinated presentations of meaningful life-events and facts to be shared and orchestrated during a flash-community event.
+> As currently conceived, flash-communities will require a mobile app that participants must install and (transparently) link to their social media accounts. The mobile app anonymously gathers favorite songs, recent images, and other personal data in order to generate a coordinated presentation of meaningful life-events and facts to be shared and orchestrated during a flash-community event.
 
-#### Technology overview
+## Next steps
+
+- [ ] Story-board a "best case" example
+- [ ] Identify the type of graph best suited to cumulative, ambient tonal resolution, starting with:
+    - [Hypergraphs](https://en.wikipedia.org/wiki/Hypergraph), whose ["families of sets"](https://en.wikipedia.org/wiki/Family_of_sets) could be easily mapped to sounds and images
+    - [Conceptual graphs](https://en.wikipedia.org/wiki/Conceptual_graph)
+- [ ] Design the data store and its associations
+- [ ] Map audio and visuals (preferably in Key)
+- [ ] Identify and design visual surfaces that reflect or project images
+- [ ] Budget the whole damn thing :money_with_wings:
+
+### Prioritize scope
+
+- Based on feasibility and resources, determine whether to proceed.
+- Gather materials for a prototype
+- Build app and backend (will this require AI or machining learning?)
+- Conduct tests
+
+### Necessary tools, technologies, and skillsets
 
 - [ ] Mobile app that mines social media audio-visual likes
 - [ ] BaaS to store data
@@ -48,35 +81,6 @@ Unlike flashmobs -- quick, public assemblies of people who engage in coordinated
       - [ ] Key
       - [ ] ...
 - [ ] Data-store, backend APIs, etc.
-
-#### Flash-community event
-
-> ##### :information_source: Prerequisite data-mining
->
-> :iphone: As currently conceived, flash-communities will require a mobile app that participants must install and (transparently) link to their social media accounts. The mobile app anonymously gathers favorite songs, recent images, and other personal data in order to generate a coordinated presentation of meaningful life-events and facts to be shared and orchestrated during a flash-community event.
-
-Participants enter a room (inspired/informed by the work of Olafur Eliasson) and:
-
-- [ ] 1. Beacons identify participants and queue their prepared media
-- [ ] 2. Images begin to float from the floor to the ceiling, moving upward in chronological order
-- [ ] 3. Intersections, unions, and associations among participants' data are sonically accentuated with reverb to create tones and chords
-- [ ] 4. All media and song merge harmonically overhead to generate a unique "noosphere"
-
-
-## Next steps
-
-- [ ] Story-board a "best case" example
-- [ ] Design the data store and its associations
-- [ ] Map audio and visuals (preferably in Key)
-- [ ] Identify and design visual surfaces that reflect or project images
-- [ ] Budget the whole damn thing :money_with_wings:
-
-### Reduce and refine scope
-
-- Based on feasibility and resources, determine whether to proceed.
-- Gather materials for a prototype
-- Build app and backend
-- Conduct tests
 
 ### Design solid privacy protection
 
