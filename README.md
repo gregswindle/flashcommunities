@@ -20,7 +20,7 @@
 ## 1. Epic story: facilitate flash-communities
 
 As a Humanist,<br>
-I want to facilitate rapid communal bounds using personal, data-mined sounds and imagery<br>
+I want to facilitate rapid communal bonds using personal, data-mined sounds and imagery<br>
 In order to inspire spontaneous social unity among strangers.<br>
 
 ## 2. Background
