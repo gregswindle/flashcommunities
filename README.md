@@ -1,6 +1,8 @@
 # `flash-communities`
 > An art collective dedicated to generating spontaneous events designed to inspire a sense of humanistic unity among strangers.
 
+[![By David.parrott (Own work) \[CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)\], via Wikimedia Commons][indras-net-img]](#readme)
+
 ## Table of contents
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -22,15 +24,15 @@
 
 <!-- /TOC -->
 
-## 1. Epic story: facilitate flash-communities
+## 1. Epic story: facilitate spontaneous group unity
 
 As a Humanist,<br>
-I want to facilitate rapid communal bonds using personal, data-mined sounds and imagery<br>
+I want to facilitate rapid communal bonds using personal, data-mined sounds and imagery,<br>
 In order to inspire spontaneous social unity among strangers.<br>
 
 ## 2. Background
 
-Unlike flashmobs - quick, public assemblies of people who engage in coordinated _performances_ intended for outward-facing audiences - **flash-communities** are introverted events akin to family reunions, where members share a pot-luck of music, tweets, posts, videos, and images (all of which are anonymously and automatically data-mined from mobile devices). Projects focussed on `flash-communities` iteratively explore and experiment with  the formation of minimally to non-hierarchical groups for goal-oriented enterprises.
+Unlike flashmobs — quick, public assemblies of people who engage in coordinated _performances_ intended for outward-facing audiences — **flash-communities** are introverted events akin to family reunions, where members share a pot-luck of music, tweets, posts, videos, and images (all of which are anonymously and automatically data-mined from mobile devices). Projects focussed on `flash-communities` iteratively explore and experiment with the formation of minimally to non-hierarchical groups for goal-oriented enterprises.
 
 ## 3. Initial vision and purpose
 
@@ -88,7 +90,7 @@ The movement of light upward represents unity through growing luminosity synchro
 <a title="By David.parrott (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIndras_Net-02.png"><img width="512" alt="Indras Net-02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Indras_Net-02.png/512px-Indras_Net-02.png"/></a>
 
 > ##### Orchestration principles behind the movement of sounds and images
-> Explore achieving harmonic resolution on principles behind [Intda and the world column][indra-world-column-definition-url].
+> Explore achieving harmonic resolution on principles behind [Indra and the world column][indra-world-column-definition-url].
 
 ## 5. Next steps
 
@@ -133,10 +135,12 @@ Participants *must* be able to choose what *not* to be shared.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+<a title="By David.parrott (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIndras_Net-02.png"><img width="512" alt="Indras Net-02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Indras_Net-02.png/512px-Indras_Net-02.png"/></a>
 
 [alpha-wave-definition-url]: https://en.wikipedia.org/wiki/Alpha_wave
 [dream-machine-classic-spinning-img]: ./.assets/dream-machine-classic-spinning.gif
 [dream-machine-classic-spinning-url]: https://en.wikipedia.org/wiki/Dreamachine
 [hypnagogia-definition-url]: https://en.wikipedia.org/wiki/Hypnagogia
+[indras-net-img]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Indras_Net-02.png/512px-Indras_Net-02.png "By David.parrott (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons"
 [indras-net-definition-url]: https://en.wikipedia.org/wiki/Alpha_wave
 [indra-world-column-definition-url]: https://en.wikipedia.org/wiki/Indra%27s_net#Indra_and_the_world_column
