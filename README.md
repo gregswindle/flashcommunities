@@ -88,7 +88,7 @@ The movement of light upward represents unity through growing luminosity synchro
 <a title="By David.parrott (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIndras_Net-02.png"><img width="512" alt="Indras Net-02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Indras_Net-02.png/512px-Indras_Net-02.png"/></a>
 
 > ##### Orchestration principles behind the movement of sounds and images
-> Explore achieving harmonic resolution on principles behind [Intra and the world column][indra-world-column-definition-url].
+> Explore achieving harmonic resolution on principles behind [Intda and the world column][indra-world-column-definition-url].
 
 ## 5. Next steps
 
